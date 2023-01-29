@@ -1,2 +1,2 @@
 # CirOpenGL
-Creating a circunference using OpenGL using Bressenham, and antoher methods
+Remember to set up the OpenGL enviroment, this is just the raw code.
